@@ -20,6 +20,7 @@
 <img width="321" height="251" alt="image" src="https://github.com/user-attachments/assets/19982365-e69d-4b1c-ac6d-560f5b58df7c" />
 
 ## Task 8:
-<img width="426" height="697" alt="image" src="https://github.com/user-attachments/assets/47a9aa46-5f32-412e-885f-fd5931c947f7" />
+<img width="442" height="691" alt="accepted_screenshot" src="https://github.com/user-attachments/assets/b6b604ba-eb7e-409f-87fd-7c0472be0907" />
 
-<img width="444" height="710" alt="image" src="https://github.com/user-attachments/assets/d3892491-386a-4273-a4f7-4393766e48b4" />
+<img width="452" height="697" alt="accepted_screenshot2" src="https://github.com/user-attachments/assets/37fdd83b-e899-4d93-9cd8-e7c81b5201dd" />
+
